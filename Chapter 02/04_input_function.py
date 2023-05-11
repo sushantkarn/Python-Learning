@@ -1,0 +1,7 @@
+a = input("Enter your name: ")
+b = input("Enter the value: ")
+b = int(b)
+print(type(a))
+print(type(b))
+print(a)
+print(b)
