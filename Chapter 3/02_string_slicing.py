@@ -2,6 +2,7 @@ a = 'Sushant'
 b = 'Karn'
 print(a + b)  # Concatenation of string
 print(a[0])
+print(a[-1])
 print(b[0:4])  # This is called string slicing
 
 print(b[:4])  # This is equal to b[0:4]
